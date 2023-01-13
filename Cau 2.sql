@@ -1,4 +1,3 @@
-USE employeedb
 
 UPDATE employee
-SET Salary=Salary+(Salary * 0.1);
+SET Salary = Salary * 1.1;
